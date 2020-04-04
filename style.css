@@ -1,0 +1,27 @@
+h1 {
+  color: blue;
+  text-align: center;
+}
+div {
+    text-align: center;
+  border:3px solid blue
+}
+table{
+  border:2px solid black
+  border-collapse:collapse;
+  width: 80%
+}
+td{
+  text-align: center;
+  padding: inherit;
+  border:1px solid black
+}
+td{
+  background-color: lightgray;
+}
+#top {
+  font-size: 20px;
+}
+.name {
+  font-weight: bold;
+}
